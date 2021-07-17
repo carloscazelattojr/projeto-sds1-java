@@ -13,7 +13,7 @@ import br.com.carlosjunior.dspesquisa.entities.Game;
 import br.com.carlosjunior.dspesquisa.services.GameService;
 
 @RestController
-@RequestMapping(value = "/games")
+@RequestMapping("/games")
 public class GameController {
 
 	@Autowired
@@ -25,4 +25,7 @@ public class GameController {
 		return ResponseEntity.ok().body(listGame);
 	}
 
+	
+	
+	
 }
