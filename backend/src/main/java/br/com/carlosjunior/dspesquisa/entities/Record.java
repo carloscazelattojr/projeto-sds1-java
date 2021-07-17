@@ -25,7 +25,7 @@ public class Record implements Serializable {
 	private Instant moment;
 
 	@ManyToOne
-	@JoinColumn(name = "record_id")
+	@JoinColumn(name = "game_id")
 	private Game game;
 
 	public Record() {
