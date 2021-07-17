@@ -25,10 +25,7 @@ public class Genre implements Serializable {
 	@OneToMany(mappedBy = "genre")
 	private List<Game> games = new ArrayList<>();
 
-	public static long getSerialversionuid() {
-		return serialVersionUID;
-	}
-
+	
 	public Genre() {
 	}
 
