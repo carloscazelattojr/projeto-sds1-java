@@ -1,7 +1,10 @@
-# SDS1 - Semana DevSuperior Spring React/React Native/Java - Projeto: DSPesquisa de Games
+## Bootcamp: Semana Spring React/ReactNative/Java SDS3
 
 
 # BACKEND
+
+Projeto desenvolvido em Spring Boot/Java.
+
 
 ## Tecnologies
 
@@ -31,6 +34,7 @@ Database: dspesquisa
   spring.jpa.open-in-view=false
 
   ```
+  <br>
   - application-dev.properties
   ```
   #Databse PostgreSQL configs
@@ -48,6 +52,7 @@ Database: dspesquisa
   spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
   spring.jpa.hibernate.ddl-auto=none  
   ```
+  <br>
   - application-test.properties
   ```
   #Database H2 Configs
@@ -68,10 +73,10 @@ Database: dspesquisa
   spring.jpa.show-sql=false
   spring.jpa.properties.hibernate.format_sql=false  
   ```
-
+<br>
 2) Para desenvolvimento TEST, utilize o H2
 3) Para desenvolvimento DEV, utilize o PostgreSQL
-4) Para deploy no Heroku
+4) Para deploy no Heroku PostgreSQL
   - Criar app no heroku. Provisionar o banco de dados PostgreSQL
   - Pegar string de conexão do banco e conectar no PostgreSQL Local para verificar se está funcionando.
   - Execute o script CREATE.SQL para criar a base no Heroku (atividade manual.)

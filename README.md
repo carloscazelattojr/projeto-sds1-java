@@ -1,6 +1,6 @@
 ## Bootcamp: Semana Spring React/ReactNative/Java SDS3
 
-Projeto DSPesquisa
+Projeto DSPesquisa de Games. 
 
 Back-End desenvolvido com Spring Boot Java e hospedado no Heroku.
 
