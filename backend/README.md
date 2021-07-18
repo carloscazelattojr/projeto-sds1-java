@@ -32,9 +32,8 @@ Database: dspesquisa
 
   #life cycle
   spring.jpa.open-in-view=false
-
   ```
-  <br>
+
   - application-dev.properties
   ```
   #Databse PostgreSQL configs
@@ -52,7 +51,7 @@ Database: dspesquisa
   spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
   spring.jpa.hibernate.ddl-auto=none  
   ```
-  <br>
+
   - application-test.properties
   ```
   #Database H2 Configs
@@ -63,6 +62,7 @@ Database: dspesquisa
   spring.h2.console.enabled=true
   spring.h2.console.path=/h2-console  
   ```
+  
   - application-prod.properties
   ```
   #Database in Heroku
@@ -73,7 +73,7 @@ Database: dspesquisa
   spring.jpa.show-sql=false
   spring.jpa.properties.hibernate.format_sql=false  
   ```
-<br>
+
 2) Para desenvolvimento TEST, utilize o H2
 3) Para desenvolvimento DEV, utilize o PostgreSQL
 4) Para deploy no Heroku PostgreSQL
