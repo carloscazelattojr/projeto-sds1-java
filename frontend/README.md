@@ -11,7 +11,12 @@ Projeto desenvolvido em ReactJS
 `Node` `ReactJS`
 
 ## Dependencies
+```
+npm install react-router-dom
+npm install @types/react-router-dom --dev
 
+npm install 
+```
 
 
 ## Chek-List Step-by-Step in Deploy
