@@ -15,7 +15,10 @@ Projeto desenvolvido em ReactJS
 npm install react-router-dom
 npm install @types/react-router-dom --dev
 
-npm install 
+npm install axios
+npm install moment  (Manipulação de datas)
+
+
 ```
 
 
