@@ -2,7 +2,7 @@
 
 Projeto DSPesquisa de Games. 
 
-Back-End: Desenvolvido com Spring Boot Java e hospedado no Heroku.
+Back-End: Desenvolvido com Spring Boot Java e hospedado no Heroku.<br>
 Front-End: Desenvolvido com ReactJS;
 
 
@@ -20,7 +20,7 @@ Back-End Heroku: https://sds1-dspesquisa-cjr.herokuapp.com
 
 ## Tecnologias utilizadas
 
-  Back-End: `Spring` `Java` `Heroku` `PostgreSQL` 
+  Back-End: `Spring` `Java` `Heroku` `PostgreSQL` <br>
   Back-End: `ReactJS` `Typescript`
   
   
