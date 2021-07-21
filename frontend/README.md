@@ -39,7 +39,7 @@ npm run start
 
 
 
-## Front-Ent Screens
+## Front-End Screens
 
 <h1 align="center">
     <img alt="SDS1" title="#front1" src="https://github.com/carlosjunior1983/projeto-sds1-java/blob/main/img/front1.PNG"  /><br>
