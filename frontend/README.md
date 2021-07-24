@@ -6,11 +6,11 @@
 Projeto desenvolvido em ReactJS
 
 
-## Tecnologies
+## Tecnologias
 
 `Node` `ReactJS`
 
-## Dependencies
+## Dependências
 ```
 npm install react-router-dom
 npm install @types/react-router-dom --dev
@@ -24,7 +24,7 @@ npm install react-apexcharts
 ```
 
 
-## Chek-List Step-by-Step in Deploy
+## Chek-List Passo-a-Passo até o deploy
 
 1) Create project ReactJS (Web):
 ```
@@ -39,7 +39,7 @@ npm run start
 
 
 
-## Front-End Screens
+## Front-End Telas
 
 <h1 align="center">
     <img alt="SDS1" title="#front1" src="https://github.com/carlosjunior1983/projeto-sds1-java/blob/main/img/front1.PNG"  /><br>
