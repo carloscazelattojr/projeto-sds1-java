@@ -17,8 +17,8 @@ Back-End Heroku: https://sds1-dspesquisa-cjr.herokuapp.com
 ## Tecnologias utilizadas
 
   Back-End: `Spring` `Java` `Heroku` `PostgreSQL` <br>
-  Front-End: `ReactJS` `Typescript`
-  Mobile: `React Native` `Expo`
+  Front-End: `ReactJS` `Typescript`<br>
+  Mobile: `React Native` `Expo`<br>
   
   
  
